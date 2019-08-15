@@ -1,5 +1,5 @@
 {
-  "name": "building_admin_ui",
+  "name": "spokehs-api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
