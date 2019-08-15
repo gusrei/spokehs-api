@@ -15,9 +15,6 @@
     "underscore": "^1.9.1"
   },
   "scripts": {
-    "start": "node server.js",
-  },
-  "devDependencies": {
-    "nodemon": "^1.19.1"
+    "start": "node server.js"
   }
 }
